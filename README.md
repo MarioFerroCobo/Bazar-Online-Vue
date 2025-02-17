@@ -80,13 +80,14 @@ Para cambiar la URL base del backend en el frontend, revisa el archivo src/servi
 
 ## Imagenes📸
 ### Inicio
-  ![imagen](https://github.com/user-attachments/assets/dfa2d227-a61b-488c-b532-e572a09dcbab)
+  ![imagen](https://github.com/user-attachments/assets/3fadc17c-cb2a-4a19-98a1-46a59a31a672)
 ### Busqueda
-![imagen](https://github.com/user-attachments/assets/fa3a3c52-c31d-42f4-b3ae-0d3275396232)
+![imagen](https://github.com/user-attachments/assets/229efd5d-b1c9-47dc-9fef-3de72b5169f2)
 ### Detalles
-![imagen](https://github.com/user-attachments/assets/39996e1a-aff4-4685-862a-b068e9a9c3bb)
+![imagen](https://github.com/user-attachments/assets/738863f1-a6eb-4c0d-811f-f9eec96010cd)
 ### Carrito
-![imagen](https://github.com/user-attachments/assets/f0d5c585-8a61-4ac9-b44f-681656354855)
+![imagen](https://github.com/user-attachments/assets/48a0c25d-159e-4dfa-9b08-cf1a9065ce45)
+
 
 
 
